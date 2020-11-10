@@ -31,3 +31,7 @@ def create_bmk():
 
 def update_bmk():
     return 'am working initially'
+
+
+def add_delete_bmk():
+    pass
