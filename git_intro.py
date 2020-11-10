@@ -28,3 +28,6 @@ def create_bmk():
 # patricia make her changesets - feature branch- / any_name
 
 # come back to master and ask her work to be merged
+
+def update_bmk():
+    return 'am working initially'
