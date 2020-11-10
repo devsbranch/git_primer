@@ -10,8 +10,8 @@
 # tell git that it should start tracking this folder
 # folder -> repository
 
-def add_numbers():
-    return 3 + 5  # 0.0004 ms 0.0002 ms
+def add_numbers(a, b):
+    return a + b  # 0.0004 ms 0.0002 ms
 
 # tell git to start tracking folder
 # git - service
