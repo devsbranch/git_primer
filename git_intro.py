@@ -21,3 +21,10 @@ print(add_numbers(4, 6))
 
 def create_bmk():
     pass
+
+
+# I create project/repo for you - default branch called 'master'
+
+# patricia make her changesets - feature branch- / any_name
+
+# come back to master and ask her work to be merged
