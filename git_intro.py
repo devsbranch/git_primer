@@ -16,3 +16,5 @@ def add_numbers(a, b):
 # tell git to start tracking folder
 # git - service
 # git  init # tell track your folder
+
+print(add_numbers(4, 6))
